@@ -1,3 +1,8 @@
+> 📦 **已归档（Archived — 仅作参考）**
+> 本仓库已收入归档仓 **dev-toolkit**（代码与完整 git 历史一并迁入，原仓冻结不再开发）。
+> 历史分支见归档仓的 `archive/haha` 分支；活跃维护请前往 **dev-toolkit**。
+> _This repo is archived into dev-toolkit; development continues there. Do not commit here._
+
 # haha（MVC 消息应用）
 
 一款 tkinter MVC 架构的演示应用（消息显示）。
